@@ -21,7 +21,7 @@ The transition from FoF to MGS yielded a fundamental improvement in how the data
 | **Structure Type** | Massive, shapeless blobs | Filamentary, multi-generational trees |
 | **Validation Method** | None | Redshift-Space Distortion (RSD) |
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 HectoMAP-Cosmic-Web-Topology/
 ├── README.md                # Project documentation
