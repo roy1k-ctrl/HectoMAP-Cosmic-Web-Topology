@@ -30,6 +30,5 @@ HectoMAP-Cosmic-Web-Topology/
 │   ├── analysis_mgs.ipynb   # Main pipeline: Data cleaning, MGS clustering, Topology
 │   └── comparison_fof.ipynb # Baseline comparison: FoF clustering issues
 ├── img/
-│   ├── rsd_phase_space.png  # Visualization of Redshift-Space Distortions
-│   └── topology_stats.png   # 8-panel topological histogram
-└── src/                     # (Optional) Helper scripts
+    ├── rsd_phase_space.png  # Visualization of Redshift-Space Distortions
+    └── topology_stats.png   # 8-panel topological histogram
