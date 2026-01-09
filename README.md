@@ -22,7 +22,7 @@ The transition from FoF to MGS yielded a fundamental improvement in how the data
 | **Validation Method** | None | Redshift-Space Distortion (RSD) |
 
 ### MGS
-![MGS Plot](/img/MGS_utilized_galaxy_clusters.png)
+![MGS Plot](/img/rsd_phase_space.png)
 
 ## Repository Structure
 ```text
@@ -30,7 +30,7 @@ HectoMAP-Cosmic-Web-Topology/
 ├── README.md                # Project documentation
 ├── requirements.txt         # Python dependencies
 ├── notebooks/
-│   ├── data_info.ipynb   # Visualizes the raw .fits data structure
+│   ├── data_info.ipynb      # Visualizes the raw .fits data structure
 │   ├── analysis_mgs.ipynb   # Main pipeline: Data cleaning, MGS clustering, Topology
 │   └── comparison_fof.ipynb # Baseline comparison: FoF clustering issues
 └── img/
