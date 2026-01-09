@@ -21,6 +21,7 @@ The transition from FoF to MGS yielded a fundamental improvement in how the data
 | **Structure Type** | Massive, shapeless blobs | Filamentary, multi-generational trees |
 | **Validation Method** | None | Redshift-Space Distortion (RSD) |
 
+## MGS
 ![MGS Plot](MGS_utilized_galaxy_clusters.png)
 
 ## Repository Structure
