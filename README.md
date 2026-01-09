@@ -30,9 +30,9 @@ HectoMAP-Cosmic-Web-Topology/
 ├── README.md                # Project documentation
 ├── requirements.txt         # Python dependencies
 ├── notebooks/
-│   ├── data_info.ipynb      # Visualizes the raw .fits data structure
 │   ├── analysis_mgs.ipynb   # Main pipeline: Data cleaning, MGS clustering, Topology
-│   └── comparison_fof.ipynb # Baseline comparison: FoF clustering issues
+│   ├── comparison_fof.ipynb # Baseline comparison: FoF clustering issues
+│   └── data_info.ipynb      # Visualizes the raw .fits data structure
 └── img/
     ├── rsd_phase_space.png  # Visualization of Redshift-Space Distortions
     └── topology_stats.png   # 8-panel topological histogram
