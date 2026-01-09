@@ -22,7 +22,7 @@ The transition from FoF to MGS yielded a fundamental improvement in how the data
 | **Validation Method** | None | Redshift-Space Distortion (RSD) |
 
 ### MGS
-![MGS Plot](MGS_utilized_galaxy_clusters.png)
+![MGS Plot](rsd_phase_space.png)
 
 ## Repository Structure
 ```text
